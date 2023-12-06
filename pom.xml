@@ -45,7 +45,7 @@
         <version.jakarta-transaction-api>2.0.1</version.jakarta-transaction-api>
         <version.jakarta.annotation-api>2.1.1</version.jakarta.annotation-api>
         <version.jakarta.ejb-api>4.0.1</version.jakarta.ejb-api>
-        <version.wildfly.ejb-client.bom>27.0.0.Final</version.wildfly.ejb-client.bom>
+        <version.wildfly.ejb-client.bom>30.0.1.Final</version.wildfly.ejb-client.bom>
         <version.junit>4.13.1</version.junit>
     </properties>
 
