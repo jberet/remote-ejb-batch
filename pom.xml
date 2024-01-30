@@ -28,7 +28,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!-- JBoss dependency versions -->
-        <version.wildfly.maven.plugin>4.1.0.Beta4</version.wildfly.maven.plugin>
+        <version.wildfly.maven.plugin>5.0.0.Beta3</version.wildfly.maven.plugin>
 
         <!-- other plugin versions -->
         <version.compiler.plugin>3.7.0</version.compiler.plugin>
